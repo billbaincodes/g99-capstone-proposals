@@ -10,11 +10,11 @@ flô is a running app that plays increasingly intense music the faster you run.
 
 ## Problem Statement
 
-Music can increase running performance, especially when the tempo matches your pace. A static playlist can’t properly match your pace and it’s distracting to change songs mid-run.
+Music can improve running performance, especially when the tempo matches your pace. A static playlist can’t properly match your pace and it’s distracting to change songs mid-run.
 
 ## How will your project solve this problem?
 
-flô sets up three playlists that you populate with calm, medium and intense music and will automatically play songs from the playlist that reflects your current pace.
+flô sets up three playlists that you populate with calm, medium and intense music. Each playlist corresponds to a particular moving speed (calm = 0-3mph, medium = 4-6mph, intense = 7+ mph) While running, flô will automatically play songs from the playlist that reflects your current pace.
 
 ## 5 user stories (at least):
 
