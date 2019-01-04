@@ -6,29 +6,33 @@ Please complete this project proposal thoroughly so that your instructors can re
 
 ## Project Description
 
-
+flô is a running app that plays increasingly intense music the faster you run.
 
 ## Problem Statement
 
-
+Music can increase running performance, especially when the tempo matches your pace. A static playlist can’t properly match your pace and it’s distracting to change songs mid-run.
 
 ## How will your project solve this problem?
 
-
+flô sets up three playlists that you populate with calm, medium and intense music and will automatically play songs from the playlist that reflects your current pace.
 
 ## 5 user stories (at least):
 
-*
-*
-*
-*
-*
+* I can sign in and am taken to the home/run screen
+* I can populate three different playlists with music.
+* I can press a button to start/stop a running session.
+* During a running session, when I am standing still, I don’t hear music.
+* During a running session, when I am moving, I hear music from the correct corresponding playlist.
+* During a running session, when I stop moving, music fades to silence.
 
 ## What technologies do you plan to use?
 
 This does not need to be an exhaustive list. We want you to identify major technologies you will be using. This list may grow or shrink as your project progresses.
 
-*
+* Vue (native?)
+* MongoDB
+* Node.js
+* Express
 
 ## ERD - Entity Relationship Diagram
 
@@ -37,7 +41,7 @@ This does not need to be your absolute final ERD. We want you thinking about you
 * [Lucidchart](https://www.lucidchart.com/)
 * Any other software you like
 
-
+![flô ERD](https://i.imgur.com/GHGVGpl.jpg)
 
 ## Wireframes
 
@@ -49,3 +53,7 @@ Inlcude some wireframes of your project.
 * Any other software you like
 
 Do not spend more than 2 hours on your wireframes.
+
+![flô Wireframe 1/2](https://i.imgur.com/XarYHJM.jpg)
+![flô Wireframe 2/2](https://i.imgur.com/Fagd9Fr.jpg)
+
