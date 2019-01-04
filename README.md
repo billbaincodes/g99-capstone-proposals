@@ -29,10 +29,10 @@ flô sets up three playlists that you populate with calm, medium and intense mus
 
 This does not need to be an exhaustive list. We want you to identify major technologies you will be using. This list may grow or shrink as your project progresses.
 
-* Vue (native?)
-* MongoDB
+* Vue (Native?)
 * Node.js
 * Express
+* PostgreSQL (maybe mongoDB?)
 
 ## ERD - Entity Relationship Diagram
 
@@ -41,6 +41,7 @@ This does not need to be your absolute final ERD. We want you thinking about you
 * [Lucidchart](https://www.lucidchart.com/)
 * Any other software you like
 
+### flô ERD
 ![flô ERD](https://i.imgur.com/GHGVGpl.jpg)
 
 ## Wireframes
@@ -54,6 +55,9 @@ Inlcude some wireframes of your project.
 
 Do not spend more than 2 hours on your wireframes.
 
+### flô Wireframe 1/2
 ![flô Wireframe 1/2](https://i.imgur.com/XarYHJM.jpg)
+
+### flô Wireframe 2/2
 ![flô Wireframe 2/2](https://i.imgur.com/Fagd9Fr.jpg)
 
